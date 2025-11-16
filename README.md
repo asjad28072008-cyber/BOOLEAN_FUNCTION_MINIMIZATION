@@ -38,6 +38,8 @@ Hardware – PCs, Cyclone II , USB flasher
 Developed by:MUHAMMAD ASJAD E 
 RegisterNumber:25013957
 */
+
+
 '''
 module exp2 (a,b,c,d,w,x,y,z,f1,f2);
 input a,b,c,d,w,x,y,z;
